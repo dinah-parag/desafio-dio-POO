@@ -12,6 +12,8 @@ public class Main {
     curso2.setDescricao("Descrição do curso Java Script");
     curso2.setCargaHoraria(4);
 
+    Conteudo conteudo1 = new Curso();
+
     Mentoria mentoria1 = new Mentoria();
     mentoria1.setTitulo("Mentoria de Java");
     mentoria1.setDescricao("Descrição mentoria Java");
